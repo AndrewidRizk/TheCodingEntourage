@@ -62,5 +62,6 @@ Functional Requirements
 
 
 
+![wireframe2](https://user-images.githubusercontent.com/97995173/154768767-1a6d5212-9246-4001-9515-77d7eb0821dc.PNG)
 
 
